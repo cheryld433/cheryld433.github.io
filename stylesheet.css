@@ -1,0 +1,102 @@
+
+div::after {
+    content: "";
+    background: url(https://img4.goodfon.com/original/1440x900/c/e6/abstraktsiia-geometriia-abstract-mesh-background-geometric-l.jpg);
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;   
+}
+
+header {
+    margin: 3px;
+}
+
+.navbar {
+    align-items: center;
+}
+
+.container-one {
+    margin-top: 35px;
+    background-color: white;
+}
+
+#container-two {
+    margin-top: 35px;
+}
+
+.container-three {
+    margin-top: 35px; 
+    background-color: white;
+}
+.container-four {
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 3px;
+}
+
+#contactContainer {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+#row {
+    padding: 40px;
+    padding-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+
+.card{
+    margin-right: 100px;
+}
+
+.form-control {
+    margin-bottom: 40px;
+}
+
+.page-footer {
+    position: fixed; 
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+}
+
+.h1 {
+    font-style: italic;
+}
+
+.h2, .p {
+    text-decoration-color: ccc;
+}
+
+#logo {
+    font-size: 35px;
+    font-weight: bold;
+}
+img {
+    width: 100%;
+    height: auto;
+  }
+
+#contactList {
+    text-size-adjust: 50%;
+}
+
+#aboutMe {
+    margin-top: 70px;
+}
+
+#submit {
+    background-color:navy;
+    color: white;
+}
+
+
